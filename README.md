@@ -3,7 +3,7 @@
 The project is about analyzing Covid19 in Thailand. 
 
 ### 💠Collect the data from : 
-https://data.go.th/dataset/covid-19-daily (Data from 26/10/2021 to 11/02/2022)
+https://data.go.th/dataset/covid-19-daily (Data since January 1, 2022 to February 11, 2022)
 
 ### 💠Data cleaning tools:
 - Open refine
