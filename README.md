@@ -10,7 +10,7 @@ https://data.go.th/dataset/covid-19-daily (Data since January 1, 2022 to Februar
 - Excel
 - Pandas
 
-### 💎 Data Analysis Results 💎
+### 💎 Data analysis results 💎
 1. There are more infected women than infected men, 11.85%.
 2. The top 3 provinces with the highest number of infections are Bangkok, Chonburi, and Songkhla.
 3. The age of most infected people is between 22-30 years.
