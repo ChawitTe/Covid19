@@ -5,12 +5,12 @@ The project is about analyzing Covid19 in Thailand.
 ### 💠Collect the data from : 
 https://data.go.th/dataset/covid-19-daily (Data since January 1, 2022 to February 11, 2022)
 
-### 💠Data cleaning tools:
+### 💠Data cleaning tools
 - Open refine
 - Excel
 - Pandas
 
-### 💎 Data analysis results 💎
+### 💎 Data analysis results
 1. There are more infected women than infected men, 11.85%.
 2. The top 3 provinces with the highest number of infections are Bangkok, Chonburi, and Songkhla.
 3. The age of most infected people is between 22-30 years.
